@@ -23,6 +23,7 @@ def assembled_matrix
     [ENNET_HOUSE], 
   [ENFIELD_TENNIS_ACADEMY]
   ]
+  this_assembled_matrix
 end
 
 def array_literal_matrix
